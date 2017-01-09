@@ -85,6 +85,7 @@ class RegisterHandler(webapp2.RequestHandler):
         <html>
             <head>
                 <link rel="stylesheet" href="styles/estilo.css">
+                <script src="scripts/validator.js"></script>
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
             </head>
             <body>
@@ -168,6 +169,7 @@ class RegisterHandler(webapp2.RequestHandler):
                     <html>
                     <head>
                     <link rel="stylesheet" href="styles/estilo.css">
+                    <script src="scripts/validator.js"></script>
                     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
                     </head>
                     <body>
